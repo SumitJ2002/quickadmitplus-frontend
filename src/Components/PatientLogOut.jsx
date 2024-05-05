@@ -1,5 +1,4 @@
 import { useEffect,useCallback } from "react";
-import axios from "axios";
 import { useNavigate } from 'react-router-dom';
 import Navbar from "./Navbar";
 import Footer from "./Footer";
